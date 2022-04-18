@@ -1,0 +1,16 @@
+body {
+	background-color: #292929;
+	text-align: center;
+	display: flex;
+	display: -webkit-flex;
+}
+
+.h1 {
+	margin: auto;
+	color: #ffffff;
+}
+
+.p {
+	margin: auto;
+	color: #d7d7d7;
+}
