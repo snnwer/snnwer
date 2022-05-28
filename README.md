@@ -5,5 +5,5 @@
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=snnwer&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="snnwer's github stats">
 	<br>
-	<img href="https://discord.com/users/651038299686830120" src="https://lanyard.cnrad.dev/api/651038299686830120?theme=dark&bg=151515&animated=false&borderRadius=1px&idleMessage=my discord, dm me whenever u feel like it">
+	<a href="https://discord.com/users/651038299686830120"><img src="https://lanyard.cnrad.dev/api/651038299686830120?theme=dark&bg=151515&animated=false&borderRadius=1px&idleMessage=my discord, dm me whenever u feel like it"></a>
 </p>
