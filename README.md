@@ -1,5 +1,5 @@
 <span align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gotham&duration=2000&color=D4D4D4&center=true&vCenter=true&lines=snnwer;I+make+UIs;I+make+random+scripts)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gotham&duration=2000&color=D4D4D4&center=true&vCenter=true&lines=snnwer;I+make+UIs;I+make+random+scripts)](https://git.io/typing-svg)
 
   -------
 
