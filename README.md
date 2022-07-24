@@ -5,7 +5,7 @@
 
   -------
 
-  [![snnwer](https://github-readme-stats.vercel.app/api/top-langs/?username=snnwer&layout=compact&theme=dark&hide_border=true)]
+  [![snnwer](https://github-readme-stats.vercel.app/api/top-langs/?username=snnwer&layout=compact&theme=dark&hide_border=true)](https://github.com/snnwer/)
 
   ---
 
