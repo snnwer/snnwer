@@ -11,6 +11,6 @@
 
   ---
 
-  [![cool](https://lanyard.cnrad.dev/api/651038299686830120theme=dark&bg=151515&animated=false&borderRadius=1px)](https://discord.com/users/651038299686830120)
+  [![cool](https://lanyard.cnrad.dev/api/651038299686830120?theme=dark&bg=151515&animated=false&borderRadius=1px)](https://discord.com/users/651038299686830120)
 
 </span>
