@@ -1,5 +1,5 @@
 <span align="center">
-	[![Typing](https://readme-typing-svg.herokuapp.com/?lines=I%20make%20random%20scripts!;I%20make%20UIs%20for%20Roblox!;Always%20learning%20new%20things&font=Jetbrains%20Mono&center=true&width=440&height=45&color=ffffff&vCenter=true&size=22)](https://v3rmillion.net/member.php?action=profile&uid=945098)
+	[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gotham&duration=2000&color=D4D4D4&center=true&vCenter=true&lines=snnwer;I+make+UIs;I+make+random+scripts)](https://v3rmillion.net/member.php?action=profile&uid=945098)
 
   -------
 
